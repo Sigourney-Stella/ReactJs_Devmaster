@@ -1,0 +1,13 @@
+Các khái niệm cơ bản và các thành phần trong thư viện ReactJS
+1. ReactJS Basic (3-4b)
+    - Review ES6
+    - các thành phần cơ bản trong ReactJS 
+    - Mini Project - CRUD
+2. Redux (3b)
+    - Các khái niệm cơ bản, các thành phần...
+    - Mini Project(Shopping Cart)
+3. Hook (3b)
+    - Mini Project (Task List / Todo App)
+4. API (1b)
+    - Local API / Mock API (mockapi.io) / apixam
+    - 
